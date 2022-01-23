@@ -1,2 +1,2 @@
 # DOMprojects
-Created DOM projects for what I've learned in JS so far.
+Created DOM projects from what I've learned in JS so far.

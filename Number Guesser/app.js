@@ -73,6 +73,9 @@ function gameOver(won, msg){
     guessInput.style.borderColor = color;
     // Set message
     setMessage(msg, color);
+
+    // Play Again
+    guessBtn.value = 'Play Again';
 }
 
 // Set message
